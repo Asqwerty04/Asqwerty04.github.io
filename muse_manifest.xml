@@ -1,0 +1,16 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="330537623" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="магазин-favicon.ico" crc="458374677" ref="index"/>
+  </folder>
+  <file name="index.html" crc="190808658" mt="1488127673398" redirect="true"/>
+</manifest>

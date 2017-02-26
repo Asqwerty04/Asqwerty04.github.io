@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children>
+        <tocData>
+          <pageNumber value="1"/>
+          <title value="Налог - средство обогащать богатых"/>
+          <children>
+            <tocData>
+              <pageNumber value="2"/>
+              <title value="Страница 2"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="3"/>
+              <title value="Страница 3"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="4"/>
+              <title value="Страница 4"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="5"/>
+              <title value="Страница 5"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="6"/>
+              <title value="Страница 6"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="7"/>
+              <title value="Страница 7"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="8"/>
+              <title value="Страница 8"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="9"/>
+              <title value="Страница 9"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="10"/>
+              <title value="Страница 10"/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="11"/>
+              <title value="Страница 11"/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="12"/>
+          <title value="Конец"/>
+          <children/>
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="565"/>
+        <height value="800"/>
+        <slideshowDelay value="3000"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links/>
+          <id value="1"/>
+        </page>
+        <page>
+          <links/>
+          <id value="2"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="206"/>
+              <y value="738"/>
+              <width value="336"/>
+              <height value="21"/>
+              <urls>
+                <url src="http://q32.pw/jtu"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="3"/>
+        </page>
+        <page>
+          <links/>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="221"/>
+              <y value="497"/>
+              <width value="4"/>
+              <height value="11"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="5"/>
+            </link>
+          </links>
+          <id value="6"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="448"/>
+              <y value="712"/>
+              <width value="4"/>
+              <height value="11"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="6"/>
+            </link>
+            <link>
+              <x value="363"/>
+              <y value="588"/>
+              <width value="4"/>
+              <height value="11"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="6"/>
+            </link>
+          </links>
+          <id value="7"/>
+        </page>
+        <page>
+          <links/>
+          <id value="8"/>
+        </page>
+        <page>
+          <links/>
+          <id value="9"/>
+        </page>
+        <page>
+          <links/>
+          <id value="10"/>
+        </page>
+        <page>
+          <links/>
+          <id value="11"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="420"/>
+              <y value="377"/>
+              <width value="116"/>
+              <height value="31"/>
+              <urls>
+                <url src="http://q32.pw/msv"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="307"/>
+              <y value="343"/>
+              <width value="121"/>
+              <height value="33"/>
+              <urls>
+                <url src="http://q32.pw/msu"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="12"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{EE0D8ABA-94DB-4BFE-827D-E5F0CA5ADA4E}"/>
+    <bookWidth value="565"/>
+    <bookHeight value="800"/>
+    <bookName value="Tax-agent"/>
+    <bookBG src="other/background.jpg" scale="" width="565" height="800" color="13421772"/>
+    <hardCover value="false" border="false" color="16100206" width="15" height="15"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="false"/>
+    <bookmarksVisible value="true"/>
+    <searchVisible value="false"/>
+    <navigationVisible value="true"/>
+    <singlePageMode value="false"/>
+    <rightToLeftMode value="false"/>
+    <skin style="ClassicGrey"/>
+    <sessionRestore value="false"/>
+  </bookProperties>
+</Properties>

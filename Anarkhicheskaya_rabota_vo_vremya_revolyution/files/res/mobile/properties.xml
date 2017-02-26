@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children>
+        <tocData>
+          <pageNumber value="1"/>
+          <title value="Анархическая работа во время революции"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="4"/>
+          <title value="Предисловие к французскому изданию."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="4"/>
+          <title value="Предисловие к русскому изданию."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="4"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="5"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="6"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="9"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="10"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="12"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="13"/>
+          <title value="* * *"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="18"/>
+          <title value="Конец"/>
+          <children/>
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="565"/>
+        <height value="800"/>
+        <slideshowDelay value="3000"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links/>
+          <id value="1"/>
+        </page>
+        <page>
+          <links/>
+          <id value="2"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="101"/>
+              <y value="782"/>
+              <width value="200"/>
+              <height value="21"/>
+              <urls>
+                <url src="http://q32.pw/jtu"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="3"/>
+        </page>
+        <page>
+          <links/>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links/>
+          <id value="6"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="64"/>
+              <y value="380"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="6"/>
+            </link>
+          </links>
+          <id value="7"/>
+        </page>
+        <page>
+          <links/>
+          <id value="8"/>
+        </page>
+        <page>
+          <links/>
+          <id value="9"/>
+        </page>
+        <page>
+          <links/>
+          <id value="10"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="259"/>
+              <y value="255"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="10"/>
+            </link>
+          </links>
+          <id value="11"/>
+        </page>
+        <page>
+          <links/>
+          <id value="12"/>
+        </page>
+        <page>
+          <links/>
+          <id value="13"/>
+        </page>
+        <page>
+          <links/>
+          <id value="14"/>
+        </page>
+        <page>
+          <links/>
+          <id value="15"/>
+        </page>
+        <page>
+          <links/>
+          <id value="16"/>
+        </page>
+        <page>
+          <links/>
+          <id value="17"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="420"/>
+              <y value="329"/>
+              <width value="118"/>
+              <height value="32"/>
+              <urls>
+                <url src="http://q32.pw/msv"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="306"/>
+              <y value="296"/>
+              <width value="123"/>
+              <height value="32"/>
+              <urls>
+                <url src="http://q32.pw/msu"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="18"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{AF6F817B-A1A8-4948-B99B-88818CB63469}"/>
+    <bookWidth value="565"/>
+    <bookHeight value="800"/>
+    <bookName value="The_anarchist"/>
+    <bookBG src="other/background.jpg" scale="" width="565" height="800" color="13421772"/>
+    <hardCover value="false" border="false" color="16100206" width="15" height="15"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="false"/>
+    <bookmarksVisible value="true"/>
+    <searchVisible value="false"/>
+    <navigationVisible value="true"/>
+    <singlePageMode value="false"/>
+    <rightToLeftMode value="false"/>
+    <skin style="ClassicGrey"/>
+    <sessionRestore value="false"/>
+  </bookProperties>
+</Properties>

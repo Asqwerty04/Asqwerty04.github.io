@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="1"/>
+      <title value=""/>
+      <children>
+        <tocData>
+          <pageNumber value="1"/>
+          <title value="П.А. Кропоткин Речи Бунтовщика"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="4"/>
+          <title value="Петр Кропоткин и его первая книга"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="6"/>
+          <title value="Современное положеніе."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="8"/>
+          <title value="Разложеніе государствъ."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="10"/>
+          <title value="Необходимость революціи."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="12"/>
+          <title value="Грядущая Революція."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="15"/>
+          <title value="Политическія права."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="17"/>
+          <title value="Къ молодымъ людямъ."/>
+          <children>
+            <tocData>
+              <pageNumber value="17"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="20"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="22"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="25"/>
+              <title value="ІV"/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="27"/>
+          <title value="Война."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="30"/>
+          <title value="Революціонное меньшинство."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="32"/>
+          <title value="Порядокъ."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="34"/>
+          <title value="Коммуна."/>
+          <children>
+            <tocData>
+              <pageNumber value="34"/>
+              <title value="l."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="36"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="38"/>
+          <title value="Парижская Коммуна."/>
+          <children>
+            <tocData>
+              <pageNumber value="38"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="41"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="43"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="45"/>
+          <title value="Аграрный вопросъ."/>
+          <children>
+            <tocData>
+              <pageNumber value="45"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="47"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="48"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="48"/>
+              <title value="Франція."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="51"/>
+          <title value="Представительное правительство."/>
+          <children>
+            <tocData>
+              <pageNumber value="51"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="53"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="57"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="61"/>
+              <title value="IV."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="64"/>
+          <title value="Законъ и Власть."/>
+          <children>
+            <tocData>
+              <pageNumber value="64"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="67"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="69"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="71"/>
+              <title value="IV."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="74"/>
+          <title value="Революціонное правительство."/>
+          <children>
+            <tocData>
+              <pageNumber value="74"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="77"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="79"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="80"/>
+          <title value="Вс? соціалисты!"/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="83"/>
+          <title value="Духъ возстанія ."/>
+          <children>
+            <tocData>
+              <pageNumber value="85"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="87"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="90"/>
+              <title value="IV."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="92"/>
+          <title value="Теорія и практика."/>
+          <children/>
+        </tocData>
+        <tocData>
+          <pageNumber value="94"/>
+          <title value="Экспропріація."/>
+          <children>
+            <tocData>
+              <pageNumber value="94"/>
+              <title value="I."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="97"/>
+              <title value="II."/>
+              <children/>
+            </tocData>
+            <tocData>
+              <pageNumber value="101"/>
+              <title value="III."/>
+              <children/>
+            </tocData>
+          </children>
+        </tocData>
+        <tocData>
+          <pageNumber value="106"/>
+          <title value="Конец"/>
+          <children/>
+        </tocData>
+      </children>
+    </tocData>
+  </tableOfContent>
+  <bookProperties>
+    <pages>
+      <defaultValue>
+        <BGColor value="13421772"/>
+        <width value="565"/>
+        <height value="800"/>
+        <slideshowDelay value="3000"/>
+      </defaultValue>
+      <elements>
+        <page>
+          <links>
+            <link>
+              <x value="575"/>
+              <y value="16"/>
+              <width value="5"/>
+              <height value="1"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="1"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="575"/>
+              <y value="12"/>
+              <width value="6"/>
+              <height value="2"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="2"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="316"/>
+              <y value="766"/>
+              <width value="239"/>
+              <height value="24"/>
+              <urls>
+                <url src="http://q32.pw/jtu"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="3"/>
+        </page>
+        <page>
+          <links/>
+          <id value="4"/>
+        </page>
+        <page>
+          <links/>
+          <id value="5"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="551"/>
+              <y value="645"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="5"/>
+            </link>
+            <link>
+              <x value="331"/>
+              <y value="559"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="5"/>
+            </link>
+          </links>
+          <id value="6"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="405"/>
+              <y value="284"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="6"/>
+            </link>
+            <link>
+              <x value="140"/>
+              <y value="284"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="6"/>
+            </link>
+          </links>
+          <id value="7"/>
+        </page>
+        <page>
+          <links/>
+          <id value="8"/>
+        </page>
+        <page>
+          <links/>
+          <id value="9"/>
+        </page>
+        <page>
+          <links/>
+          <id value="10"/>
+        </page>
+        <page>
+          <links/>
+          <id value="11"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="142"/>
+              <y value="738"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="11"/>
+            </link>
+          </links>
+          <id value="12"/>
+        </page>
+        <page>
+          <links/>
+          <id value="13"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="363"/>
+              <y value="642"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="13"/>
+            </link>
+          </links>
+          <id value="14"/>
+        </page>
+        <page>
+          <links/>
+          <id value="15"/>
+        </page>
+        <page>
+          <links/>
+          <id value="16"/>
+        </page>
+        <page>
+          <links/>
+          <id value="17"/>
+        </page>
+        <page>
+          <links/>
+          <id value="18"/>
+        </page>
+        <page>
+          <links/>
+          <id value="19"/>
+        </page>
+        <page>
+          <links/>
+          <id value="20"/>
+        </page>
+        <page>
+          <links/>
+          <id value="21"/>
+        </page>
+        <page>
+          <links/>
+          <id value="22"/>
+        </page>
+        <page>
+          <links/>
+          <id value="23"/>
+        </page>
+        <page>
+          <links/>
+          <id value="24"/>
+        </page>
+        <page>
+          <links/>
+          <id value="25"/>
+        </page>
+        <page>
+          <links/>
+          <id value="26"/>
+        </page>
+        <page>
+          <links/>
+          <id value="27"/>
+        </page>
+        <page>
+          <links/>
+          <id value="28"/>
+        </page>
+        <page>
+          <links/>
+          <id value="29"/>
+        </page>
+        <page>
+          <links/>
+          <id value="30"/>
+        </page>
+        <page>
+          <links/>
+          <id value="31"/>
+        </page>
+        <page>
+          <links/>
+          <id value="32"/>
+        </page>
+        <page>
+          <links/>
+          <id value="33"/>
+        </page>
+        <page>
+          <links/>
+          <id value="34"/>
+        </page>
+        <page>
+          <links/>
+          <id value="35"/>
+        </page>
+        <page>
+          <links/>
+          <id value="36"/>
+        </page>
+        <page>
+          <links/>
+          <id value="37"/>
+        </page>
+        <page>
+          <links/>
+          <id value="38"/>
+        </page>
+        <page>
+          <links/>
+          <id value="39"/>
+        </page>
+        <page>
+          <links/>
+          <id value="40"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="183"/>
+              <y value="462"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="40"/>
+            </link>
+          </links>
+          <id value="41"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="136"/>
+              <y value="117"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="41"/>
+            </link>
+          </links>
+          <id value="42"/>
+        </page>
+        <page>
+          <links/>
+          <id value="43"/>
+        </page>
+        <page>
+          <links/>
+          <id value="44"/>
+        </page>
+        <page>
+          <links/>
+          <id value="45"/>
+        </page>
+        <page>
+          <links/>
+          <id value="46"/>
+        </page>
+        <page>
+          <links/>
+          <id value="47"/>
+        </page>
+        <page>
+          <links/>
+          <id value="48"/>
+        </page>
+        <page>
+          <links/>
+          <id value="49"/>
+        </page>
+        <page>
+          <links/>
+          <id value="50"/>
+        </page>
+        <page>
+          <links/>
+          <id value="51"/>
+        </page>
+        <page>
+          <links/>
+          <id value="52"/>
+        </page>
+        <page>
+          <links/>
+          <id value="53"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="224"/>
+              <y value="479"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="53"/>
+            </link>
+            <link>
+              <x value="155"/>
+              <y value="479"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="53"/>
+            </link>
+            <link>
+              <x value="192"/>
+              <y value="338"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="53"/>
+            </link>
+          </links>
+          <id value="54"/>
+        </page>
+        <page>
+          <links/>
+          <id value="55"/>
+        </page>
+        <page>
+          <links/>
+          <id value="56"/>
+        </page>
+        <page>
+          <links/>
+          <id value="57"/>
+        </page>
+        <page>
+          <links/>
+          <id value="58"/>
+        </page>
+        <page>
+          <links/>
+          <id value="59"/>
+        </page>
+        <page>
+          <links/>
+          <id value="60"/>
+        </page>
+        <page>
+          <links/>
+          <id value="61"/>
+        </page>
+        <page>
+          <links/>
+          <id value="62"/>
+        </page>
+        <page>
+          <links/>
+          <id value="63"/>
+        </page>
+        <page>
+          <links/>
+          <id value="64"/>
+        </page>
+        <page>
+          <links/>
+          <id value="65"/>
+        </page>
+        <page>
+          <links/>
+          <id value="66"/>
+        </page>
+        <page>
+          <links/>
+          <id value="67"/>
+        </page>
+        <page>
+          <links/>
+          <id value="68"/>
+        </page>
+        <page>
+          <links/>
+          <id value="69"/>
+        </page>
+        <page>
+          <links/>
+          <id value="70"/>
+        </page>
+        <page>
+          <links/>
+          <id value="71"/>
+        </page>
+        <page>
+          <links/>
+          <id value="72"/>
+        </page>
+        <page>
+          <links/>
+          <id value="73"/>
+        </page>
+        <page>
+          <links/>
+          <id value="74"/>
+        </page>
+        <page>
+          <links/>
+          <id value="75"/>
+        </page>
+        <page>
+          <links/>
+          <id value="76"/>
+        </page>
+        <page>
+          <links/>
+          <id value="77"/>
+        </page>
+        <page>
+          <links/>
+          <id value="78"/>
+        </page>
+        <page>
+          <links/>
+          <id value="79"/>
+        </page>
+        <page>
+          <links/>
+          <id value="80"/>
+        </page>
+        <page>
+          <links/>
+          <id value="81"/>
+        </page>
+        <page>
+          <links/>
+          <id value="82"/>
+        </page>
+        <page>
+          <links/>
+          <id value="83"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="342"/>
+              <y value="34"/>
+              <width value="7"/>
+              <height value="19"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="83"/>
+            </link>
+          </links>
+          <id value="84"/>
+        </page>
+        <page>
+          <links/>
+          <id value="85"/>
+        </page>
+        <page>
+          <links/>
+          <id value="86"/>
+        </page>
+        <page>
+          <links/>
+          <id value="87"/>
+        </page>
+        <page>
+          <links/>
+          <id value="88"/>
+        </page>
+        <page>
+          <links/>
+          <id value="89"/>
+        </page>
+        <page>
+          <links/>
+          <id value="90"/>
+        </page>
+        <page>
+          <links/>
+          <id value="91"/>
+        </page>
+        <page>
+          <links/>
+          <id value="92"/>
+        </page>
+        <page>
+          <links/>
+          <id value="93"/>
+        </page>
+        <page>
+          <links/>
+          <id value="94"/>
+        </page>
+        <page>
+          <links/>
+          <id value="95"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="69"/>
+              <y value="35"/>
+              <width value="6"/>
+              <height value="16"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id="95"/>
+            </link>
+          </links>
+          <id value="96"/>
+        </page>
+        <page>
+          <links/>
+          <id value="97"/>
+        </page>
+        <page>
+          <links/>
+          <id value="98"/>
+        </page>
+        <page>
+          <links/>
+          <id value="99"/>
+        </page>
+        <page>
+          <links/>
+          <id value="100"/>
+        </page>
+        <page>
+          <links/>
+          <id value="101"/>
+        </page>
+        <page>
+          <links/>
+          <id value="102"/>
+        </page>
+        <page>
+          <links/>
+          <id value="103"/>
+        </page>
+        <page>
+          <links/>
+          <id value="104"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="2"/>
+              <y value="3"/>
+              <width value="11"/>
+              <height value="3"/>
+              <urls>
+                <url src=""/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="105"/>
+        </page>
+        <page>
+          <links>
+            <link>
+              <x value="304"/>
+              <y value="299"/>
+              <width value="123"/>
+              <height value="27"/>
+              <urls>
+                <url src="http://q32.pw/msu"/>
+              </urls>
+              <page id=""/>
+            </link>
+            <link>
+              <x value="416"/>
+              <y value="330"/>
+              <width value="122"/>
+              <height value="28"/>
+              <urls>
+                <url src="http://q32.pw/msv"/>
+              </urls>
+              <page id=""/>
+            </link>
+          </links>
+          <id value="106"/>
+        </page>
+      </elements>
+    </pages>
+    <searchIndex ext="other/search.txt"/>
+    <bookId value="{8A2282B4-00BB-49BB-81A9-D121962DF6A2}"/>
+    <bookWidth value="565"/>
+    <bookHeight value="800"/>
+    <bookName value="Speech_rebel"/>
+    <bookBG src="other/background.jpg" scale="" width="565" height="800" color="13421772"/>
+    <hardCover value="false" border="false" color="16100206" width="15" height="15"/>
+    <bookLang value="en"/>
+    <tocVisible value="true"/>
+    <slideshowVisible value="false"/>
+    <bookmarksVisible value="true"/>
+    <searchVisible value="false"/>
+    <navigationVisible value="true"/>
+    <singlePageMode value="false"/>
+    <rightToLeftMode value="false"/>
+    <skin style="ClassicGrey"/>
+    <sessionRestore value="false"/>
+  </bookProperties>
+</Properties>
