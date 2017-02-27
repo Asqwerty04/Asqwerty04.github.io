@@ -1,4 +1,3 @@
 User-agent: *
 Disallow: 
 Host: asqwerty04.github.io
-Sitemap: asqwerty04.github.io/sitemap.xml
