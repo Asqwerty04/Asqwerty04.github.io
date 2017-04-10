@@ -1,0 +1,47 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4284233668"/>
+    <file name="master_______-a.css" crc="4152721265" ref="бадяга:шапиро:кодла:рамсы:картотека:дачка"/>
+    <file name="______1.css" crc="234245172" ref="бадяга"/>
+    <file name="______.css" crc="234245172" ref="шапиро"/>
+    <file name="_____.css" crc="3885889130" ref="кодла"/>
+    <file name="_____2.css" crc="234245172" ref="рамсы"/>
+    <file name="index.css" crc="4267564337" ref="index"/>
+    <file name="_________.css" crc="234245172" ref="картотека"/>
+    <file name="_____1.css" crc="234245172" ref="дачка"/>
+    <file name="master_______-b.css" crc="3910621427" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="небеса-за-решёткой.oam" crc="3765403110" mt="1491820616000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="museutils.js" crc="4291592202" ref="index:картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="pie.js" crc="3827607177" ref="картотека:index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="картотека:кодла:бадяга:рамсы:шапиро:дачка:index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+  </folder>
+  <folder name="images">
+    <file name="шаблон-a-favicon.ico" crc="361929749" ref="картотека"/>
+    <file name="тюремная стена.jpg" crc="470092036" ref="картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="u351-6.png" crc="4101637698" ref="картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="u359-4.png" crc="4272471497" ref="картотека:кодла:бадяга:рамсы:шапиро:дачка"/>
+    <file name="замазка_01.jpg" crc="3975597310" ref="картотека:кодла:бадяга:рамсы:шапиро:дачка:index"/>
+    <file name="кирпич.jpg" crc="3832468220" ref="картотека:index"/>
+    <file name="кирпич6.jpg" crc="4105874991" ref="картотека:index"/>
+    <file name="кирпич5.jpg" crc="338818722" ref="картотека:index"/>
+    <file name="кирпич2.jpg" crc="4014880808" ref="картотека:index"/>
+    <file name="кирпич1.jpg" crc="4000839660" ref="картотека:index"/>
+    <file name="забор1.jpg" crc="3894429786" ref="index"/>
+    <file name="шаблон-b-favicon.ico" crc="361929749" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4182460150" mt="1491820142724" redirect="true"/>
+  <file name="картотека.html" crc="77667093" mt="1491820270260" redirect="true"/>
+  <file name="кодла.html" crc="4268119790" mt="1491820270266" redirect="true"/>
+  <file name="бадяга.html" crc="3861010945" mt="1491820270271" redirect="true"/>
+  <file name="рамсы.html" crc="63703110" mt="1491820270277" redirect="true"/>
+  <file name="шапиро.html" crc="3825493330" mt="1491820270284" redirect="true"/>
+  <file name="дачка.html" crc="4239355473" mt="1491820270292" redirect="true"/>
+</manifest>
