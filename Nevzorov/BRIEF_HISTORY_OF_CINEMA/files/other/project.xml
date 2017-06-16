@@ -1,0 +1,1734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\Краткая история цинизма\Краткая история цинизма.fb" DefaultName="Краткая история цинизма" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="2" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.5" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="15" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/home/Literature/%D0%90.%D0%93.%D0%9D%D0%B5%D0%B2%D0%B7%D0%BE%D1%80%D0%BE%D0%B2/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%86%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC%D0%B0/" ShowText="false" ShowSlider="false" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="false" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="false" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="КРАТКАЯ ИСТОРИЯ ЦИНИЗМА" HtmlKeywords="невзоров, эл.книга, книга, читать, читать бесплатно, читать онлайн, скит отшельника, книга Невзорова" HtmlDescription="Эссе и рецензии от Александра Невзорова – ре-жиссера, сценариста, писателя, академика Меж-дународной cлавянской академии наук, члена Союза журналистов Санкт-Петербурга, члена Всерос-сийского научного общества анатомов, гистоло-гов и эмбриологов, советника Губернатора Санкт-Петербурга, советника Генерального директора Первого канала, депутата Государственной Думы четырех созывов. Идет ли речь о смене президента или ипподромном беспределе, о свеженьком блок-бастере или давней войне – хлесткий, ироничный, беспощадный рассказ о том, что все хотели бы разглядеть, но не умеют или боятся увидеть. Пользуясь невзоровским бесстрашием и интеллек-туализмом, теперь все это можно – просто про-читать." HtmlScript="" PageWidth="566" PageHeight="800" CoverWidth="566" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="en,jp,fr,de,ar,ru">
+  <book title="Краткая история цинизма" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="566" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar,ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.5" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" maxloaded="15" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/home/Literature/%D0%90.%D0%93.%D0%9D%D0%B5%D0%B2%D0%B7%D0%BE%D1%80%D0%BE%D0%B2/%D0%9A%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D1%86%D0%B8%D0%BD%D0%B8%D0%B7%D0%BC%D0%B0/" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgg">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks>
+      <bookmark title="Александр Невзоров - КРАТКАЯ ИСТОРИЯ ЦИНИЗМА" page="0" color="10242265" content="Александр Невзоров - КРАТКАЯ ИСТОРИЯ ЦИНИЗМА"/>
+    </bookmarks>
+    <chapter pagewidth="566" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_1_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_1_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_2_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_2_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="566" pageheight="800">
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_3_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_3_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_4_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_4_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_5_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_5_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_6_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_6_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_7_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_7_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_8_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_8_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_9_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_9_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_10_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_10_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_11_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_11_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_12_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_12_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_13_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_13_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_14_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_14_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_15_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_15_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_16_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_16_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_17_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_17_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_18_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_18_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_19_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_19_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_20_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_20_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_21_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_21_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_22_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_22_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_23_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_23_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_24_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_24_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_25_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_25_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_26_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_26_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_27_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_27_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_28_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_28_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_29_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_29_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_30_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_30_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_31_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_31_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_32_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_32_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_33_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_33_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_34_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_34_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_35_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_35_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_36_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_36_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_37_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_37_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_38_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_38_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_39_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_39_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_40_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_40_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_41_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_41_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_42_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_42_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_43_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_43_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_44_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_44_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_45_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_45_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_46_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_46_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_47_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_47_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_48_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_48_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_49_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_49_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_50_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_50_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_51_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_51_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_52_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_52_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_53_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_53_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_54_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_54_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_55_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_55_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_56_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_56_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_57_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_57_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_58_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_58_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_59_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_59_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_60_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_60_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_61_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_61_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_62_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_62_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_63_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_63_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_64_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_64_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_65_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_65_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_66_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_66_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_67_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_67_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_68_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_68_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_69_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_69_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_70_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_70_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_71_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_71_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_72_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_72_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_73_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_73_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_74_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_74_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_75_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_75_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_76_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_76_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_77_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_77_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_78_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_78_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_79_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_79_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_80_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_80_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_81_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_81_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_82_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_82_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_83_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_83_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_84_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_84_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_85_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_85_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_86_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_86_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_87_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_87_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_88_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_88_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_89_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_89_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_90_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_90_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_91_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_91_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_92_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_92_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_93_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_93_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_94_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_94_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_95_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_95_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_96_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_96_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_97_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_97_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_98_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_98_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_99_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_99_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_100_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_100_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_101_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_101_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_102_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_102_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_103_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_103_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_104_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_104_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_105_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_105_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_106_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_106_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_107_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_107_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_108_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_108_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_109_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_109_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_110_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_110_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_111_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_111_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_112_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_112_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_113_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_113_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_114_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_114_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_115_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_115_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_116_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_116_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_117_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_117_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_118_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_118_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_119_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_119_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_120_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_120_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="566" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_121_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_121_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="565" height="800" widthorg="595" heightorg="842" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\en\high\Краткая история цинизма_122_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{F2EEE84C-C334-4720-8AA4-3F07E1681334}\files\pages\ru\high\Краткая история цинизма_122_{0422CFCE-B8DE-4A36-B22D-6465BFE08136}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="3355443" Size="8" Style="0" Text="Краткая история цинизма" Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks>
+    <bookmark title="Александр Невзоров - КРАТКАЯ ИСТОРИЯ ЦИНИЗМА" page="0" color="10242265" content="Александр Невзоров - КРАТКАЯ ИСТОРИЯ ЦИНИЗМА"/>
+  </Bookmarks>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase/>
+</flipbookmaker>
