@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\О Мистическом Анархизме\О Мистическом Анархизме.fb" DefaultName="О Мистическом Анархизме" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="15" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/public/FDZA/94Dj3dd96" ShowText="true" ShowSlider="true" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="false" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="О Мистическом Анархизме" HtmlKeywords="&quot;Анархизм, анархия, чулков, мистицизм, мистика, социум, философия, таинственное, загадочное, непознанное, общество, цивилизация, жизнь&quot;" HtmlDescription="Необходимо условиться в том, что мы разумеем под словами анархизм и мистицизм, и объяснить выражение «мистический анархизм»." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="О Мистическом Анархизме" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" maxloaded="15" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/public/FDZA/94Dj3dd96" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_1_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_1_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_2_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_2_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_3_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_3_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_4_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_4_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_5_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_5_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_6_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_6_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_7_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_7_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_8_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_8_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_9_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_9_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_10_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_10_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_11_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_11_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_12_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_12_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_13_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_13_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_14_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_14_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_15_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_15_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_16_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_16_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_17_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_17_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_18_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_18_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_19_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_19_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_20_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_20_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_21_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_21_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_22_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_22_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_23_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_23_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_24_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_24_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_25_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_25_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_26_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_26_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_27_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_27_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_28_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_28_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_29_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_29_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_30_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_30_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_31_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_31_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_32_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_32_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_33_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_33_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_34_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_34_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_35_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_35_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\en\high\О Мистическом Анархизме_36_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{4619301F-7421-48D6-B440-81E85C7BFFD9}\files\pages\ru\high\О Мистическом Анархизме_36_{29315EA8-CD48-4ED8-9367-80F7B53FCFC7}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="16777215" Size="8" Style="1" Text="О Мистическом Анархизме" Url="http://www.skeet.h1n.ru/"/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase/>
+</flipbookmaker>
