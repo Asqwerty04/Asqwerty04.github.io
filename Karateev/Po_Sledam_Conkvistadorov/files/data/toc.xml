@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contents version="4.3.3" page="0" title="">
-  <content page="1" title="По следам конквистадоров - Обложка"/>
-  <content page="2" title="Михаил Дмитриевич Каратеев - Форзац"/>
-  <content page="4" title="Михаил Дмитриевич Каратеев"/>
-  <content page="5" title="По следам конквистадоров">
+  <content page="1" title="По следам конквистадоров"/>
+  <content page="2" title="Форзац"/>
+  <content page="4" title="Михаил Дмитриевич Каратеев - По следам конквистадоров">
     <content page="5" title="От автора"/>
     <content page="5" title="Отъезд из Европы"/>
     <content page="8" title="У берегов Бразилии"/>
     <content page="10" title="Встреча с возвращенцами"/>
     <content page="13" title="Вверх по Паране и Парагваю"/>
-    <content page="16" title="В столице Парагвая"/>
+    <content page="16" title="В столице Парагвая">
+      <content page="17" title="***"/>
+    </content>
     <content page="18" title="Генерал Беляев"/>
     <content page="21" title="Город Концепсьон"/>
     <content page="23" title="Первые впечатления"/>
@@ -25,7 +26,7 @@
     <content page="39" title="На новоселье"/>
     <content page="41" title="«Собачья радость»"/>
     <content page="44" title="Страшная ночь"/>
-    <content page="46" title="Умеренный украинский климат"/>
+    <content page="45" title="Умеренный украинский климат"/>
     <content page="48" title="Родники и колодцы"/>
     <content page="52" title="Наши соседи-парагвайцы"/>
     <content page="55" title="Змеи и насекомые"/>
@@ -46,8 +47,7 @@
     <content page="95" title="Развал"/>
     <content page="97" title="Эпилог"/>
     <content page="98" title="У костра"/>
-    <content page="98" title="На кампе"/>
-    <content page="99" title="Тропическая ночь"/>
+    <content page="98" title="Тропическая ночь"/>
   </content>
   <content page="100" title="Форзац"/>
   <content page="102" title="Конец"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\По следам конквистадоров\По следам конквистадоров.fb" DefaultName="Po Sledam Conkvistadorov" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="" ShowText="true" ShowSlider="true" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="false" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="По следам конквистадоров" HtmlKeywords="Каратеев Михаил Дмитриевич; По следам конквистадоров; рассказ; путешесвия; Парагвай; колонисты; история; Karateev Mikhail Dmitrievich; In the footsteps of the conquistadors; story; travel; Paraguay; colonists; history; Karateev Michail Dmitriewitsch; Auf den Spuren der Konquistadoren; Geschichte; Reisen; Paraguay; Kolonisten; Geschichte; Karateev Mikhail Dmitrievich; Sur les pas des conquistadors; histoire; voyage; Paraguay; colons; histoire; Karateev Mikhail Dmitrievich; Tras las huellas de los conquistadores; historia; viajes; Paraguay; colonos; historia" HtmlDescription="Михаил Каратеев (1904–1978) рассказывает о попытке в 1930-е годы группы русских эмигрантов, в которую входил и он, заняться сельским хозяйством в Парагвае. Впервые книга напечатана в Буэнос-Айресе в 1972 году." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
-  <book title="По следам конквистадоров" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\По следам конквистадоров\По следам конквистадоров.fb" DefaultName="Po Sledam Conkvistadorov" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://www.oplata.info/asp2/pay_wm.asp?id_d=2397554&amp;lang=ru-RU" ShowText="true" ShowSlider="true" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="false" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="По следам конквистадоров" HtmlKeywords="Каратеев Михаил Дмитриевич; По следам конквистадоров; рассказ; путешесвия; Парагвай; колонисты; история; Karateev Mikhail Dmitrievich; In the footsteps of the conquistadors; story; travel; Paraguay; colonists; history; Karateev Michail Dmitriewitsch; Auf den Spuren der Konquistadoren; Geschichte; Reisen; Paraguay; Kolonisten; Geschichte; Karateev Mikhail Dmitrievich; Sur les pas des conquistadors; histoire; voyage; Paraguay; colons; histoire; Karateev Mikhail Dmitrievich; Tras las huellas de los conquistadores; historia; viajes; Paraguay; colonos; historia" HtmlDescription="Михаил Каратеев (1904–1978) рассказывает о попытке в 1930-е годы группы русских эмигрантов, в которую входил и он, заняться сельским хозяйством в Парагвае. Впервые книга напечатана в Буэнос-Айресе в 1972 году." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="По следам конквистадоров" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://www.oplata.info/asp2/pay_wm.asp?id_d=2397554&amp;lang=ru-RU" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
     <background>
       <box name="" anchors="0,0,ph,pw"/>
     </background>
@@ -16,8 +16,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_1_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_1_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_1_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_1_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
@@ -30,8 +30,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_2_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_2_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_2_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_2_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
     </chapter>
@@ -46,8 +46,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_3_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_3_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_3_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_3_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -60,8 +60,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_4_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_4_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_4_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_4_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -74,8 +74,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_5_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_5_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_5_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_5_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -88,8 +88,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_6_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_6_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_6_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_6_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -102,8 +102,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_7_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_7_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_7_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_7_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -116,8 +116,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_8_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_8_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_8_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_8_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -130,8 +130,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_9_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_9_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_9_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_9_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -144,8 +144,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_10_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_10_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_10_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_10_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -158,8 +158,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_11_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_11_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_11_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_11_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -172,8 +172,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_12_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_12_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_12_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_12_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -186,8 +186,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_13_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_13_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_13_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_13_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -200,8 +200,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_14_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_14_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_14_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_14_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -214,8 +214,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_15_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_15_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_15_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_15_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -228,8 +228,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_16_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_16_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_16_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_16_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -242,8 +242,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_17_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_17_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_17_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_17_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -256,8 +256,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_18_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_18_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_18_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_18_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -270,8 +270,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_19_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_19_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_19_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_19_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -284,8 +284,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_20_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_20_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_20_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_20_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -298,8 +298,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_21_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_21_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_21_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_21_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -312,8 +312,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_22_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_22_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_22_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_22_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -326,8 +326,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_23_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_23_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_23_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_23_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -340,8 +340,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_24_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_24_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_24_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_24_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -354,8 +354,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_25_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_25_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_25_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_25_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -368,8 +368,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_26_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_26_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_26_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_26_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -382,8 +382,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_27_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_27_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_27_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_27_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -396,8 +396,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_28_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_28_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_28_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_28_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -410,8 +410,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_29_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_29_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_29_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_29_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -424,8 +424,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_30_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_30_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_30_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_30_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -438,8 +438,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_31_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_31_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_31_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_31_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -452,8 +452,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_32_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_32_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_32_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_32_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -466,8 +466,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_33_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_33_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_33_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_33_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -480,8 +480,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_34_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_34_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_34_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_34_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -494,8 +494,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_35_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_35_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_35_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_35_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -508,8 +508,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_36_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_36_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_36_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_36_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -522,8 +522,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_37_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_37_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_37_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_37_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -536,8 +536,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_38_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_38_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_38_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_38_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -550,8 +550,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_39_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_39_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_39_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_39_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -564,8 +564,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_40_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_40_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_40_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_40_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -578,8 +578,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_41_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_41_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_41_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_41_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -592,8 +592,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_42_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_42_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_42_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_42_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -606,8 +606,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_43_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_43_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_43_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_43_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -620,8 +620,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_44_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_44_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_44_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_44_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -634,8 +634,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_45_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_45_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_45_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_45_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -648,8 +648,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_46_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_46_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_46_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_46_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -662,8 +662,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_47_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_47_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_47_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_47_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -676,8 +676,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_48_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_48_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_48_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_48_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -690,8 +690,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_49_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_49_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_49_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_49_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -704,8 +704,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_50_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_50_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_50_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_50_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -718,8 +718,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_51_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_51_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_51_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_51_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -732,8 +732,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_52_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_52_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_52_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_52_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -746,8 +746,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_53_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_53_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_53_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_53_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -760,8 +760,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_54_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_54_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_54_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_54_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -774,8 +774,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_55_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_55_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_55_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_55_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -788,8 +788,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_56_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_56_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_56_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_56_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -802,8 +802,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_57_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_57_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_57_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_57_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -816,8 +816,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_58_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_58_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_58_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_58_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -830,8 +830,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_59_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_59_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_59_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_59_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -844,8 +844,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_60_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_60_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_60_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_60_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -858,8 +858,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_61_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_61_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_61_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_61_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -872,8 +872,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_62_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_62_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_62_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_62_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -886,8 +886,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_63_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_63_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_63_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_63_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -900,8 +900,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_64_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_64_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_64_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_64_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -914,8 +914,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_65_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_65_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_65_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_65_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -928,8 +928,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_66_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_66_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_66_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_66_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -942,8 +942,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_67_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_67_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_67_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_67_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -956,8 +956,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_68_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_68_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_68_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_68_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -970,8 +970,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_69_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_69_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_69_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_69_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -984,8 +984,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_70_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_70_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_70_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_70_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -998,8 +998,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_71_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_71_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_71_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_71_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1012,8 +1012,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_72_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_72_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_72_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_72_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1026,8 +1026,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_73_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_73_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_73_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_73_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1040,8 +1040,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_74_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_74_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_74_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_74_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1054,8 +1054,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_75_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_75_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_75_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_75_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1068,8 +1068,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_76_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_76_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_76_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_76_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1082,8 +1082,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_77_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_77_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_77_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_77_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1096,8 +1096,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_78_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_78_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_78_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_78_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1110,8 +1110,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_79_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_79_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_79_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_79_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1124,8 +1124,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_80_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_80_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_80_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_80_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1138,8 +1138,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_81_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_81_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_81_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_81_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1152,8 +1152,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_82_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_82_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_82_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_82_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1166,8 +1166,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_83_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_83_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_83_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_83_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1180,8 +1180,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_84_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_84_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_84_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_84_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1194,8 +1194,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_85_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_85_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_85_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_85_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1208,8 +1208,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_86_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_86_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_86_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_86_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1222,8 +1222,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_87_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_87_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_87_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_87_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1236,8 +1236,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_88_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_88_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_88_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_88_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1250,8 +1250,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_89_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_89_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_89_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_89_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1264,8 +1264,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_90_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_90_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_90_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_90_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1278,8 +1278,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_91_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_91_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_91_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_91_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1292,8 +1292,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_92_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_92_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_92_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_92_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1306,8 +1306,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_93_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_93_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_93_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_93_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1320,8 +1320,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_94_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_94_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_94_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_94_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1334,8 +1334,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_95_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_95_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_95_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_95_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1348,8 +1348,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_96_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_96_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_96_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_96_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1362,8 +1362,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_97_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_97_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_97_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_97_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1376,8 +1376,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_98_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_98_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_98_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_98_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1390,8 +1390,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_99_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_99_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_99_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_99_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0" foldfx="0">
@@ -1404,8 +1404,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_100_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_100_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_100_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_100_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
     </chapter>
@@ -1420,8 +1420,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_101_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_101_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_101_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_101_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
       <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
@@ -1434,8 +1434,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\en\high\Po Sledam Conkvistadorov_102_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
-          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{1023173B-65C2-47E0-A75E-F3EA40F44F39}\files\pages\ru\high\Po Sledam Conkvistadorov_102_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\en\high\Po Sledam Conkvistadorov_102_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{0E3D7F20-AB3B-44E1-84A3-703442B7DA37}\files\pages\ru\high\Po Sledam Conkvistadorov_102_{4D5F9A79-14DE-4607-BC20-CEB26C6D4846}_ru.swf</src>
         </img>
       </page>
     </chapter>
