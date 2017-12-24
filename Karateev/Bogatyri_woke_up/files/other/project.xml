@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\Богатыри Проснулись\Богатыри Проснулись.fb" DefaultName="Богатыри Проснулись" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="http://q32.pw/bjZq" ShowText="true" ShowSlider="true" ShowShare="true" ShowPrint="true" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Богатыри проснулись" HtmlKeywords="Москва, Дмитрий Донской, Орда, Тохтамыш, мамай, побоище, Куликово поле, Кулика битва,Ольгерд, Литва, Русь литовская, Ягайло, Тверь, противостояние, проза, историческая проза, история, повествование, Каратеев, исторический рассказ, Русь, Россия, художественная литература, литература" HtmlDescription="Шестнадцатилетняя полоса почти беспрерывных внутри-русских войн закончилась в 1375 году полной победой Московского великого князя Дмитрия Ивановича. Самый сильный и самый беспокойный из его соперников, великий князь Михаил Александрович Тверской, – в итоге семилетней кровавой борьбы вынужден был смириться и признать себя «молодшим братом» Московского князя; Суздальско-Нижегородские князья, также домогавшиеся верховной власти над Русью, были сломлены еще раньше; все остальные, один за другим, признали свою зависимость от Москвы и обязались служить ей. Самостоятельность сохранил один лишь великий князь Рязанский, Олег Иванович, но и он, испытав на себе силу московского оружия, сидел в своей вотчине тихо и старался ладить с могущественным соседом." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="Богатыри Проснулись" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="http://q32.pw/bjZq" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_1_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_1_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_2_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_2_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_3_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_3_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_4_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_4_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_5_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_5_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_6_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_6_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_7_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_7_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_8_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_8_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_9_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_9_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_10_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_10_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_11_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_11_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_12_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_12_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_13_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_13_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_14_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_14_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_15_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_15_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_16_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_16_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_17_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_17_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_18_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_18_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_19_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_19_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_20_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_20_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_21_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_21_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_22_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_22_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_23_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_23_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_24_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_24_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_25_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_25_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_26_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_26_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_27_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_27_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_28_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_28_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_29_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_29_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_30_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_30_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_31_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_31_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_32_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_32_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_33_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_33_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_34_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_34_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_35_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_35_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_36_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_36_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_37_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_37_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_38_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_38_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_39_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_39_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_40_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_40_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_41_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_41_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_42_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_42_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_43_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_43_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_44_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_44_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_45_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_45_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_46_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_46_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_47_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_47_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_48_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_48_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_49_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_49_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_50_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_50_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_51_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_51_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_52_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_52_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_53_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_53_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_54_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_54_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_55_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_55_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_56_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_56_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_57_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_57_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_58_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_58_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_59_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_59_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_60_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_60_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_61_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_61_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_62_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_62_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_63_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_63_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_64_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_64_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_65_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_65_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_66_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_66_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_67_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_67_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_68_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_68_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_69_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_69_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_70_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_70_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_71_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_71_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_72_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_72_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_73_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_73_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_74_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_74_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_75_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_75_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_76_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_76_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_77_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_77_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_78_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_78_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_79_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_79_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_80_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_80_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_81_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_81_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_82_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_82_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_83_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_83_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_84_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_84_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_85_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_85_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_86_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_86_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_87_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_87_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_88_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_88_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_89_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_89_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_90_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_90_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_91_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_91_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_92_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_92_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_93_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_93_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_94_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_94_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_95_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_95_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_96_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_96_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_97_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_97_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_98_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_98_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_99_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_99_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_100_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_100_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_101_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_101_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_102_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_102_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_103_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_103_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_104_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_104_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_105_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_105_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_106_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_106_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_107_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_107_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_108_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_108_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_109_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_109_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_110_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_110_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_111_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_111_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_112_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_112_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_113_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_113_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\en\high\Богатыри Проснулись_114_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{680C3545-2E38-414E-8434-2F3D3549F876}\files\pages\ru\high\Богатыри Проснулись_114_{3778290C-8D8A-4529-B7EE-CD2580D33F25}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="16777215" Size="8" Style="1" Text="Богатыри Проснулись" Url="http://www.skeet.h1n.ru/"/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="Железный хромец" url="http://q32.pw/bjPQ" target="New Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="Русь и Орда - книга вторая" url="http://q32.pw/bjPN" target="New Tab" thumbnail="files/elements/bc1.jpg"/>
+    <item title="Русь и Орда - книга первая" url="http://q32.pw/bjPM" target="New Tab" thumbnail="files/elements/bc2.jpg"/>
+    <item title="По следам конквистодоров" url="http://q32.pw/bjZl" target="New Tab" thumbnail="files/elements/bc3.jpg"/>
+  </BookCase>
+</flipbookmaker>
