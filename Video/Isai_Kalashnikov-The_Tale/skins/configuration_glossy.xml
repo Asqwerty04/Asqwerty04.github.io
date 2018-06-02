@@ -1,0 +1,130 @@
+<config>
+	<cssSkin>skins/glossy/spritesheet.min.css</cssSkin>
+	<controlBarAutoHide>true</controlBarAutoHide>
+	<tocTitleColor>0x000000</tocTitleColor>
+	<tocItemTextColor>0x000000</tocItemTextColor>
+	<tocItemUpColor>0xFFFFFF</tocItemUpColor>
+	<tocItemOverColor>0xFFFFFF</tocItemOverColor>
+	<tocItemDownColor>0xFFFFFF</tocItemDownColor>
+	<tocItemSelectedUpColor>0x5186a4</tocItemSelectedUpColor>
+	<tocItemSelectedOverColor>0x5da1c8</tocItemSelectedOverColor>
+	<tocItemSelectedDownColor>0x396b88</tocItemSelectedDownColor>
+	<chrome>
+		<widgets>
+			<widget id="controlBar"
+					  type="ControlBar"
+					  height="37"
+					  horizontalAlign="center"
+					  verticalAlign="top"
+					  layoutMode="horizontal">
+
+				<widget id="leftMargin"
+						  type="Widget"
+						  width="8"/>
+				<widget id="rewindbutton"
+						  top="2"
+						  type="RewindButton"/>
+				<widget horizontalAlign="left"
+						  verticalAlign="center"
+						  top="2"
+						  left="0">
+					<widget id="playButton"
+							  type="playButton"
+							  top="0"/>
+					<widget id="pauseButton"
+							  type="pauseButton"
+							  top="0"/>
+				</widget>
+
+				<widget id="previousButton"
+						  type="PlaylistPreviousButton"
+						  top="2"/>
+
+				<widget id="nextButton"
+						  type="PlaylistNextButton"
+						  top="2"/>
+
+				<widget id="spacerBeforeScrubBar"
+						  type="Widget"
+						  width="8"/>
+
+				<widget id="scrubBar"
+						  type="scrubBar"
+						  top="16"
+						  thumbOffsetY="0"
+						  markerWidth="5"
+						  markerHeight="5"
+						  markerColor="0x212121"
+						  markerColorAlpha="0.95"
+						  markerCorner="6"
+						  includeTimeHint="false"
+						  horizontalAlign="center"
+						  verticalAlign="top"
+						  percentWidth="100"
+						  timeHintBottom="0"/>
+
+				<widget id="spacerAfterScrubBar"
+						  type="Widget"
+						  width="8"/>
+
+				<widget id="timeViewWidget"
+						  type="TimeViewWidget"
+						  verticalAlign="middle"
+						  horizontalAlign="right"
+						  textColor="0x000000"
+						  fontSize="14"
+						  top="0"/>
+
+				<widget id="spacer"
+						  type="Widget"
+						  width="6"/>
+
+				<widget layoutMode="horizontal"
+						  horizontalAlign="right"
+						  verticalAlign="center"
+						  top="2"
+						  right="6">
+
+					<widget id="muteButton"
+							  type="MuteButton"
+							  sliderStart="10"
+							  sliderEnd="84"
+							  top="0"/>
+
+					<widget id="spacer"
+							  type="Widget"
+							  width="2"/>
+
+					<widget id="captionbutton"
+							  type="CaptionButton"
+							  top="0"/>
+
+					<widget id="spacer"
+							  type="Widget"
+							  width="2"/>
+
+					<widget id="tocbutton"
+							  type="TOCButton"
+							  top="0"/>
+
+					<widget id="spacer"
+							  type="Widget"
+							  width="2"/>
+
+					<widget id="fullscreenMaxButton"
+							  top="0"
+							  type="FullScreenEnterButton"/>
+
+					<widget id="fullscreenMinButton"
+							  top="0"
+							  type="FullScreenLeaveButton"/>
+				</widget>
+
+				<widget id="rightMargin"
+						  type="Widget"
+						  width="5"/>
+
+			</widget>
+		</widgets>
+	</chrome>
+</config>
