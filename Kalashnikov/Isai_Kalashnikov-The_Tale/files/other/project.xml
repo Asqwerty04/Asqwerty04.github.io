@@ -1,0 +1,2013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\Литература\Исай Калашников\Повести\Рабочка\Исай Калашников-Повести\Исай Калашников-Повести.fb" DefaultName="Исай_Калашников-Повести" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.7" PageThick="0.1" SpineColor="13421772" Curvature="0" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="false" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/public/Ci9H/7TNEFQwHX" ShowText="true" ShowSlider="true" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Исай Калашников-Повести" HtmlKeywords="Исай Калашников, Повести, скачать книгу, бесплатно, читать, онлайн, электронная книга, калашников, советская литература, СССР, Россия, русская литература" HtmlDescription="Повести народного писателя Бурятии Исая Калашникова &quot;Расследование&quot; и &quot;Через топи&quot;, вошедшие в сборник, объединены темой долга, темой служения людям. В остросюжетном &quot;Расследовании&quot; ведется рассказ о преступлении, совершенном в одном из прибайкальских поселков. Но не детектив является здесь главным. Автор исследует психологию преступника, показывает, как замаскированная подлость, хитрость оборачиваются трагедией, стоят жизни ни в чем не повинным людям. Интересен характер следователя Зыкова, одерживающего победу в психологической схватке с преступником." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="en,jp,fr,de,ar,ru">
+  <book title="Исай Калашников-Повести" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar,ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0" sndpath="files/snd/" dragspeed="0.7" password="" pwstart="0" spinecurvature="0" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/public/Ci9H/7TNEFQwHX" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_1_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_1_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_2_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_2_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_3_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_3_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_4_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_4_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_5_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_5_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_6_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_6_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_7_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_7_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_8_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_8_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_9_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_9_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_10_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_10_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_11_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_11_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_12_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_12_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_13_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_13_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_14_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_14_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_15_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_15_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_16_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_16_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_17_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_17_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_18_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_18_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_19_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_19_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_20_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_20_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_21_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_21_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_22_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_22_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_23_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_23_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_24_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_24_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_25_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_25_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_26_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_26_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_27_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_27_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_28_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_28_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_29_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_29_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_30_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_30_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_31_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_31_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_32_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_32_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_33_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_33_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_34_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_34_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_35_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_35_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_36_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_36_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_37_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_37_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_38_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_38_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_39_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_39_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_40_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_40_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_41_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_41_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_42_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_42_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_43_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_43_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_44_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_44_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_45_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_45_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_46_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_46_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_47_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_47_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_48_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_48_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_49_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_49_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_50_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_50_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_51_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_51_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_52_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_52_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_53_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_53_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_54_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_54_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_55_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_55_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_56_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_56_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_57_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_57_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_58_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_58_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_59_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_59_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_60_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_60_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_61_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_61_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_62_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_62_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_63_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_63_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_64_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_64_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_65_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_65_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_66_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_66_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_67_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_67_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_68_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_68_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_69_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_69_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_70_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_70_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_71_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_71_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_72_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_72_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_73_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_73_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_74_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_74_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_75_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_75_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_76_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_76_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_77_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_77_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_78_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_78_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_79_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_79_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_80_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_80_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_81_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_81_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_82_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_82_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_83_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_83_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_84_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_84_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_85_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_85_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_86_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_86_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_87_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_87_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_88_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_88_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_89_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_89_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_90_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_90_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_91_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_91_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_92_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_92_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_93_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_93_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_94_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_94_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_95_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_95_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_96_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_96_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_97_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_97_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_98_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_98_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_99_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_99_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_100_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_100_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_101_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_101_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_102_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_102_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_103_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_103_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_104_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_104_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_105_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_105_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_106_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_106_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_107_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_107_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_108_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_108_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_109_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_109_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_110_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_110_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_111_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_111_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_112_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_112_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_113_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_113_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_114_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_114_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_115_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_115_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_116_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_116_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_117_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_117_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_118_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_118_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_119_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_119_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_120_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_120_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_121_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_121_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_122_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_122_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_123_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_123_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_124_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_124_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_125_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_125_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_126_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_126_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_127_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_127_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_128_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_128_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_129_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_129_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_130_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_130_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_131_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_131_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_132_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_132_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_133_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_133_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_134_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_134_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_135_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_135_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_136_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_136_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_137_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_137_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_138_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_138_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_139_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_139_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_140_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_140_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_141_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_141_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0" foldfx="0">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\en\high\Исай_Калашников-Повести_142_{CD5510AB-19F3-481A-9419-DF353D437A9F}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{CE5AF552-3703-4F1D-9D70-037A6C167441}\files\pages\ru\high\Исай_Калашников-Повести_142_{CD5510AB-19F3-481A-9419-DF353D437A9F}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="16777215" Size="12" Style="1" Text="Исай Калашников-Повести" Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase>
+    <item title="Железный век - Гонимые" url="http://q32.pw/bpyi" target="Current Tab" thumbnail="files/elements/bc0.jpg"/>
+    <item title="Железный век - Гонители" url="http://q32.pw/bpyj" target="Current Tab" thumbnail="files/elements/bc1.jpg"/>
+  </BookCase>
+</flipbookmaker>
