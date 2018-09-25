@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flipbookmaker version="4.3.3" IsQuick="false" QuickFile="" ProjectName="H:\Документы\kvisoft\FlipBook Maker4\project\Акулу хотят съесть!\Акулу хотят съесть!.fb" DefaultName="Исаков Дмитрий. Акулу хотят съесть!" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="1" IsHardPage="2" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.8" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" Loaded="22" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="preloader07" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="true" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="https://cloud.mail.ru/public/8gce/zGqirVcNt" ShowText="true" ShowSlider="false" ShowShare="true" ShowPrint="false" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="false" ShowBookCase="false" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="false" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="normal" TemplateName="tech01" ExeTitle="" HtmlTitle="Акулу хотят съесть!" HtmlKeywords="Фантастика; скит отшельника; библиотека; электронная библиотека; библиотека электронных книг; читать; читать бесплатно; советская фантастика; Книга; Книги; Художественная литература; Фэнтези; Мистика" HtmlDescription="В книгу московского писателя Д.Исакова вошли разноплановые фантастические произведения о звездных войнах и путешествиях в параллельные миры, с элементами сюрреализма и детектива, в которых остросюжетная интрига сочетается с неожиданным видением мира и прогнозированием будущего и прошлого." HtmlScript="" PageWidth="565" PageHeight="800" CoverWidth="565" CoverHeight="800" Langs="en,ru" LangHints="English,Russian" BookLangs="ru">
+  <book title="Акулу хотят съесть!" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="565" pageheight="800" searchindex="files/search_index/en.txt,ru(files/search_index/ru.txt)" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="ru" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.8" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="https://cloud.mail.ru/public/8gce/zGqirVcNt" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="bdgf">
+    <background>
+      <box name="" anchors="0,0,ph,pw"/>
+    </background>
+    <bookmarks/>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_1_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_1_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_2_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_2_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_3_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_3_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_4_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_4_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_5_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_5_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_6_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_6_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_7_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_7_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_8_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_8_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_9_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_9_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_10_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_10_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_11_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_11_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_12_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_12_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_13_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_13_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_14_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_14_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_15_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_15_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_16_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_16_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_17_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_17_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_18_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_18_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_19_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_19_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_20_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_20_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_21_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_21_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_22_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_22_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_23_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_23_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_24_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_24_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_25_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_25_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_26_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_26_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_27_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_27_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_28_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_28_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_29_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_29_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_30_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_30_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_31_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_31_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_32_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_32_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_33_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_33_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_34_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_34_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_35_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_35_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_36_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_36_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_37_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_37_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_38_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_38_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_39_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_39_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_40_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_40_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_41_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_41_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_42_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_42_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_43_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_43_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_44_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_44_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_45_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_45_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_46_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_46_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_47_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_47_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_48_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_48_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_49_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_49_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_50_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_50_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_51_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_51_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_52_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_52_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_53_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_53_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_54_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_54_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_55_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_55_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_56_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_56_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_57_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_57_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_58_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_58_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_59_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_59_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_60_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_60_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_61_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_61_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_62_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_62_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_63_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_63_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_64_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_64_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_65_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_65_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_66_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_66_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_67_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_67_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_68_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_68_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_69_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_69_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_70_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_70_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_71_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_71_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_72_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_72_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_73_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_73_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_74_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_74_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_75_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_75_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_76_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_76_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_77_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_77_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_78_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_78_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_79_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_79_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_80_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_80_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_81_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_81_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_82_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_82_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_83_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_83_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_84_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_84_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_85_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_85_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_86_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_86_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_87_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_87_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_88_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_88_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_89_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_89_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_90_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_90_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_91_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_91_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_92_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_92_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_93_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_93_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_94_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_94_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_95_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_95_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_96_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_96_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_97_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_97_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_98_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_98_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_99_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_99_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_100_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_100_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_101_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_101_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_102_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_102_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_103_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_103_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_104_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_104_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_105_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_105_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_106_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_106_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_107_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_107_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_108_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_108_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+        <gal left="-107" top="-24" width="779" height="885" alpha="1" rotation="0" caption="gallery 1" srcorg="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\gal\Normal\SlideShow.swf" src="C:\Program Files\Kvisoft\Flipbook Maker Enterprise\elements\gal\Normal\SlideShow.swf" xml="C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\PageEditor\gal_1_105.xml"/>
+      </page>
+    </chapter>
+    <chapter pagewidth="565" pageheight="800">
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_109_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_109_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+      <page stiff="true" stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="566" height="800" widthorg="595" heightorg="841" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\en\high\Исаков Дмитрий. Акулу хотят съесть!_110_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_en.swf</src>
+          <src lang="ru">C:\Users\Asqwerty\AppData\Local\Temp\flipbook_{9D12E33B-362D-43FA-A843-73C9E2393FFB}\files\pages\ru\high\Исаков Дмитрий. Акулу хотят съесть!_110_{8F747E93-A0D9-4B56-8EAD-6AD6098F0CCA}_ru.swf</src>
+        </img>
+      </page>
+    </chapter>
+  </book>
+  <MyFont Name="Verdana" Color="12632256" Size="12" Style="1" Text="Акулу хотят съесть!" Url=""/>
+  <Backgd UseBackImg="true" BackColor1="0" BackColor2="10066329" ColorStyle="radial" ImagePath="files/elements/bg.jpeg" ImageStyle="Tile" TransParent="10" AType="0"/>
+  <Logo Name="" Color="0" Size="0" Style="0" Text="" Url="" UseLogo="false" UseImage="false" ImagePath="" ImageTrans="0" BackColor="0" Width="100" Height="100" Target="_blank"/>
+  <FontObj Name="" Color="0" Size="0" Style="0"/>
+  <Bookmarks/>
+  <Playlist skin="" miniskin="" startmini="false" onlywhenactive="false" playmode="1" loopmode="1"/>
+  <BookCase/>
+</flipbookmaker>
